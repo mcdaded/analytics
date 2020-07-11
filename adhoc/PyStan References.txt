@@ -1,0 +1,8 @@
+Rethinking Statistics
+
+https://mc-stan.org/users/documentation/case-studies.html
+https://bookdown.org/marklhc/notes_bookdown/group-comparisons.html
+https://opensourcegeomicro.wordpress.com/2017/10/11/pystan-setup-differences-between-two-groups/
+https://mc-stan.org/users/documentation/case-studies/radon.html
+https://mc-stan.org/users/documentation/case-studies/radon.html
+https://stackoverflow.com/questions/53864121/auto-insert-time-in-beginning-of-all-jupyter-notebook-cell
